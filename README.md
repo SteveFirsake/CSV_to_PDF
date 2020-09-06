@@ -12,4 +12,8 @@ Anaconda users (execute):
 
 1. conda create -n csv_pdf_converter python pandas matplotlib
 2. conda activate csv_pdf_converter
+<<<<<<< HEAD
 3. python converter.py
+=======
+3. python converter.py
+>>>>>>> fb5783a6211b743b12348dd9bc23e11456945061
