@@ -10,8 +10,6 @@ Libraries required: pandas, python, matplotlib
 
 Anaconda users (execute): 
 
-conda create -n csv_pdf_converter python pandas matplotlib
-
-conda activate csv_pdf_converter
-
-python converter.py
+1. conda create -n csv_pdf_converter python pandas matplotlib
+2. conda activate csv_pdf_converter
+3. python converter.py
