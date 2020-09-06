@@ -13,3 +13,5 @@ Anaconda users (execute):
 1. conda create -n csv_pdf_converter python pandas matplotlib
 2. conda activate csv_pdf_converter
 3. python converter.py
+
+Example files uploaded - BN001.csv and BN001.pdf
